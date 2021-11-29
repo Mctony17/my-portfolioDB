@@ -26,6 +26,9 @@
     },
     "link": {
       "type": "string"
+    },
+    "current": {
+      "type": "boolean"
     }
   }
 }
